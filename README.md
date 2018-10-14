@@ -1,2 +1,2 @@
-# go-with-docker
-Learning golang
+# learning-go-with-docker
+Learning golang with docker
